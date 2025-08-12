@@ -67,7 +67,6 @@ body{
     margin-bottom: 50px;
 }
 .bg-image-1 {
-    background-image: url('./image/nkar.png');
     background-size: cover;
 }
 .title {
